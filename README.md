@@ -1,3 +1,5 @@
+NOT TESTED YET
+
 # PS4 Linux Loader
 A simple payload that let you run Linux on your 5.05 PS4
 
